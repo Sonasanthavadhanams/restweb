@@ -333,7 +333,7 @@ menu.html
         <div class="menu-item">
             <img src="crabsoup.avif" alt="crabsoup">
             <div>
-                <h3>CARBSOUP</h3>
+                <h3>CRABSOUP</h3>
                 <p>Start with Refreshing crabsoup</p>
             </div>
         </div>
